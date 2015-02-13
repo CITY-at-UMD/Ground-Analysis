@@ -1,0 +1,17 @@
+{
+    "name": "Ground Analysis",
+    "version": "0.1.0",
+    "private": true,
+    "contributors": [
+        {
+            "name": "Jay Zhang",
+    }
+  ],
+    "dependencies": {
+        "express": "4.x",
+        "socket": "1.3.3",
+        "async": "0.9.0",
+        "color-thief": "2.2.0",
+        "request": "2.53.0"  
+    },
+}
